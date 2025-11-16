@@ -1,0 +1,15 @@
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/1CarProject/bin/Debug/net9.0/1CarProject
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/1CarProject/bin/Debug/net9.0/1CarProject.deps.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/1CarProject/bin/Debug/net9.0/1CarProject.runtimeconfig.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/1CarProject/bin/Debug/net9.0/1CarProject.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/1CarProject/bin/Debug/net9.0/1CarProject.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/1CarProject/obj/Debug/net9.0/1CarProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/1CarProject/obj/Debug/net9.0/1CarProject.AssemblyInfoInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/1CarProject/obj/Debug/net9.0/1CarProject.AssemblyInfo.cs
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/1CarProject/obj/Debug/net9.0/1CarProject.csproj.CoreCompileInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/1CarProject/obj/Debug/net9.0/1CarProject.sourcelink.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/1CarProject/obj/Debug/net9.0/1CarProject.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/1CarProject/obj/Debug/net9.0/refint/1CarProject.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/1CarProject/obj/Debug/net9.0/1CarProject.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/1CarProject/obj/Debug/net9.0/1CarProject.genruntimeconfig.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/1CarProject/obj/Debug/net9.0/ref/1CarProject.dll
