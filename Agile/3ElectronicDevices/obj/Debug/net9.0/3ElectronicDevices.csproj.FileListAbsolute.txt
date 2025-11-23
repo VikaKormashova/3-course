@@ -1,0 +1,15 @@
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/3ElectronicDevices/bin/Debug/net9.0/3ElectronicDevices
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/3ElectronicDevices/bin/Debug/net9.0/3ElectronicDevices.deps.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/3ElectronicDevices/bin/Debug/net9.0/3ElectronicDevices.runtimeconfig.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/3ElectronicDevices/bin/Debug/net9.0/3ElectronicDevices.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/3ElectronicDevices/bin/Debug/net9.0/3ElectronicDevices.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/3ElectronicDevices/obj/Debug/net9.0/3ElectronicDevices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/3ElectronicDevices/obj/Debug/net9.0/3ElectronicDevices.AssemblyInfoInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/3ElectronicDevices/obj/Debug/net9.0/3ElectronicDevices.AssemblyInfo.cs
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/3ElectronicDevices/obj/Debug/net9.0/3ElectronicDevices.csproj.CoreCompileInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/3ElectronicDevices/obj/Debug/net9.0/3ElectronicDevices.sourcelink.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/3ElectronicDevices/obj/Debug/net9.0/3ElectronicDevices.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/3ElectronicDevices/obj/Debug/net9.0/refint/3ElectronicDevices.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/3ElectronicDevices/obj/Debug/net9.0/3ElectronicDevices.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/3ElectronicDevices/obj/Debug/net9.0/3ElectronicDevices.genruntimeconfig.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/3ElectronicDevices/obj/Debug/net9.0/ref/3ElectronicDevices.dll
