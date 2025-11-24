@@ -1,0 +1,15 @@
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/4PaymentSystem/bin/Debug/net9.0/4PaymentSystem
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/4PaymentSystem/bin/Debug/net9.0/4PaymentSystem.deps.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/4PaymentSystem/bin/Debug/net9.0/4PaymentSystem.runtimeconfig.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/4PaymentSystem/bin/Debug/net9.0/4PaymentSystem.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/4PaymentSystem/bin/Debug/net9.0/4PaymentSystem.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/4PaymentSystem/obj/Debug/net9.0/4PaymentSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/4PaymentSystem/obj/Debug/net9.0/4PaymentSystem.AssemblyInfoInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/4PaymentSystem/obj/Debug/net9.0/4PaymentSystem.AssemblyInfo.cs
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/4PaymentSystem/obj/Debug/net9.0/4PaymentSystem.csproj.CoreCompileInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/4PaymentSystem/obj/Debug/net9.0/4PaymentSystem.sourcelink.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/4PaymentSystem/obj/Debug/net9.0/4PaymentSystem.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/4PaymentSystem/obj/Debug/net9.0/refint/4PaymentSystem.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/4PaymentSystem/obj/Debug/net9.0/4PaymentSystem.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/4PaymentSystem/obj/Debug/net9.0/4PaymentSystem.genruntimeconfig.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/4PaymentSystem/obj/Debug/net9.0/ref/4PaymentSystem.dll
