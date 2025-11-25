@@ -1,5 +1,4 @@
 using System;
-using System.Linq;
 
 namespace PaymentSystem
 {
@@ -12,10 +11,9 @@ namespace PaymentSystem
             get { return _network; }
             set
             {
-                string[] allowedNetworks = { "BTC", "ETH", "LTC", "BCH", "XRP" };
-                if (string.IsNullOrWhiteSpace(value) || !allowedNetworks.Contains(value.ToUpper()))
-                    throw new ArgumentException($"Недопустимая сеть. Разрешены: {string.Join(", ", allowedNetworks)}");
-                _network = value.ToUpper();
+                if (string.IsNullOrWhiteSpace(value))
+                    throw new ArgumentException("Название сети не может быть пустым");
+                _network = value;
             }
         }
 
@@ -32,22 +30,13 @@ namespace PaymentSystem
 
         public override string Process(decimal amount)
         {
-            Amount = amount;
-
             if (string.IsNullOrEmpty(WalletId))
                 throw new InvalidOperationException("Не привязан кошелек");
 
             if (string.IsNullOrEmpty(Network))
                 throw new InvalidOperationException("Не выбрана сеть");
 
-            return $"Обработано {Amount} в сети {Network} через крипто-кошелек {WalletId}";
-        }
-
-        public string Process(decimal amount, bool fastTransaction)
-        {
-            Amount = amount;
-            string speed = fastTransaction ? "быструю" : "стандартную";
-            return $"Обработано {Amount} в сети {Network} ({speed} транзакцию)";
+            return $"Processed {amount} via {Network} network wallet {WalletId}";
         }
     }
 }

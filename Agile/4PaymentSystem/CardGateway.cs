@@ -1,5 +1,4 @@
 using System;
-using System.Linq;
 
 namespace PaymentSystem
 {
@@ -25,28 +24,20 @@ namespace PaymentSystem
 
         public void SetMaskedPan(string pan)
         {
-            if (string.IsNullOrWhiteSpace(pan) || pan.Length != 16 || !pan.All(char.IsDigit))
-                throw new ArgumentException("Неверный номер карты. Должно быть 16 цифр");
-
-            string masked = $"**** **** **** {pan.Substring(12)}";
+            if (string.IsNullOrWhiteSpace(pan))
+                throw new ArgumentException("Номер карты не может быть пустым");
+            
+            string masked = $"**** **** **** {pan.Substring(pan.Length - 4)}";
             MaskedPan = masked;
             Console.WriteLine($"Маска карты установлена: {MaskedPan}");
         }
 
         public override string Process(decimal amount)
         {
-            Amount = amount;
-
             if (string.IsNullOrEmpty(MaskedPan))
                 throw new InvalidOperationException("Не установлена маска карты");
 
-            return $"Обработано {Amount} через карту {MaskedPan}";
-        }
-
-        public string Process(string cardType, decimal amount)
-        {
-            Amount = amount;
-            return $"Обработано {Amount} через {cardType} карту {MaskedPan}";
+            return $"Processed {amount} via card {MaskedPan}";
         }
     }
 }
