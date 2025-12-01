@@ -1,0 +1,15 @@
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/8Tracker/bin/Debug/net9.0/8Tracker
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/8Tracker/bin/Debug/net9.0/8Tracker.deps.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/8Tracker/bin/Debug/net9.0/8Tracker.runtimeconfig.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/8Tracker/bin/Debug/net9.0/8Tracker.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/8Tracker/bin/Debug/net9.0/8Tracker.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/8Tracker/obj/Debug/net9.0/8Tracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/8Tracker/obj/Debug/net9.0/8Tracker.AssemblyInfoInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/8Tracker/obj/Debug/net9.0/8Tracker.AssemblyInfo.cs
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/8Tracker/obj/Debug/net9.0/8Tracker.csproj.CoreCompileInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/8Tracker/obj/Debug/net9.0/8Tracker.sourcelink.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/8Tracker/obj/Debug/net9.0/8Tracker.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/8Tracker/obj/Debug/net9.0/refint/8Tracker.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/8Tracker/obj/Debug/net9.0/8Tracker.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/8Tracker/obj/Debug/net9.0/8Tracker.genruntimeconfig.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/8Tracker/obj/Debug/net9.0/ref/8Tracker.dll
