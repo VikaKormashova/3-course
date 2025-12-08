@@ -24,3 +24,6 @@ if __name__ == "__main__":
         return "success"
     
     print(flaky())  
+    print(flaky())  
+    print(flaky())  
+    print(flaky())  
