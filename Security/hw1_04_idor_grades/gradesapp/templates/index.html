@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <p>Все IDOR уязвимости исправлены. Проверки доступа выполняются на сервере.</p>
+</div>
+
+<h3>Мои списки</h3>
+<ul>
+  <li><a href="/secure/grade/list/">Grade: мои объекты</a></li>
+  <li><a href="/secure/assignment/list/">Assignment: мои объекты</a></li>
+</ul>
+{% endblock %}
