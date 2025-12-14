@@ -1,0 +1,15 @@
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/6AccessSystem/obj/Debug/net9.0/6AccessSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/6AccessSystem/obj/Debug/net9.0/6AccessSystem.AssemblyInfoInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/6AccessSystem/obj/Debug/net9.0/6AccessSystem.AssemblyInfo.cs
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/6AccessSystem/obj/Debug/net9.0/6AccessSystem.csproj.CoreCompileInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/6AccessSystem/obj/Debug/net9.0/6AccessSystem.sourcelink.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/6AccessSystem/bin/Debug/net9.0/6AccessSystem
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/6AccessSystem/bin/Debug/net9.0/6AccessSystem.deps.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/6AccessSystem/bin/Debug/net9.0/6AccessSystem.runtimeconfig.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/6AccessSystem/bin/Debug/net9.0/6AccessSystem.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/6AccessSystem/bin/Debug/net9.0/6AccessSystem.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/6AccessSystem/obj/Debug/net9.0/6AccessSystem.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/6AccessSystem/obj/Debug/net9.0/refint/6AccessSystem.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/6AccessSystem/obj/Debug/net9.0/6AccessSystem.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/6AccessSystem/obj/Debug/net9.0/6AccessSystem.genruntimeconfig.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/6AccessSystem/obj/Debug/net9.0/ref/6AccessSystem.dll

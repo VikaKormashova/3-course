@@ -1,0 +1,15 @@
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/5ShopStock/bin/Debug/net9.0/5ShopStock
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/5ShopStock/bin/Debug/net9.0/5ShopStock.deps.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/5ShopStock/bin/Debug/net9.0/5ShopStock.runtimeconfig.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/5ShopStock/bin/Debug/net9.0/5ShopStock.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/5ShopStock/bin/Debug/net9.0/5ShopStock.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/5ShopStock/obj/Debug/net9.0/5ShopStock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/5ShopStock/obj/Debug/net9.0/5ShopStock.AssemblyInfoInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/5ShopStock/obj/Debug/net9.0/5ShopStock.AssemblyInfo.cs
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/5ShopStock/obj/Debug/net9.0/5ShopStock.csproj.CoreCompileInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/5ShopStock/obj/Debug/net9.0/5ShopStock.sourcelink.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/5ShopStock/obj/Debug/net9.0/5ShopStock.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/5ShopStock/obj/Debug/net9.0/refint/5ShopStock.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/5ShopStock/obj/Debug/net9.0/5ShopStock.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/5ShopStock/obj/Debug/net9.0/5ShopStock.genruntimeconfig.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/5ShopStock/obj/Debug/net9.0/ref/5ShopStock.dll

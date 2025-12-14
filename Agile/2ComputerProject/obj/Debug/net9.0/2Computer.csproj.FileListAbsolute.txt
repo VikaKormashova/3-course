@@ -1,0 +1,15 @@
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/2Computer/bin/Debug/net9.0/2Computer
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/2Computer/bin/Debug/net9.0/2Computer.deps.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/2Computer/bin/Debug/net9.0/2Computer.runtimeconfig.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/2Computer/bin/Debug/net9.0/2Computer.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/2Computer/bin/Debug/net9.0/2Computer.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/2Computer/obj/Debug/net9.0/2Computer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/2Computer/obj/Debug/net9.0/2Computer.AssemblyInfoInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/2Computer/obj/Debug/net9.0/2Computer.AssemblyInfo.cs
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/2Computer/obj/Debug/net9.0/2Computer.csproj.CoreCompileInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/2Computer/obj/Debug/net9.0/2Computer.sourcelink.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/2Computer/obj/Debug/net9.0/2Computer.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/2Computer/obj/Debug/net9.0/refint/2Computer.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/2Computer/obj/Debug/net9.0/2Computer.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/2Computer/obj/Debug/net9.0/2Computer.genruntimeconfig.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/2Computer/obj/Debug/net9.0/ref/2Computer.dll

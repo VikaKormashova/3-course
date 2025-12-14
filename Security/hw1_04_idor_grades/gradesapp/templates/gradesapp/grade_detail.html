@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Grade: детально ({{ mode }})</h2>
+<p><b>ID:</b> {{ obj.id }}</p>
+<p><b>Owner:</b> <span id="ownerName">{{ obj.owner.username }}</span></p>
+<p><b>Title:</b> {{ obj.title }}</p>
+{% if request.user == obj.owner %}
+<form method="post" action="/vuln/grade/update/{{ obj.id }}/">
+  {% csrf_token %}
+  <input name='title' placeholder="Новое значение">
+  <button type="submit">Обновить</button>
+</form>
+{% endif %}
+<p><a href="/secure/grade/list/">Вернуться к списку</a></p>
+{% endblock %}

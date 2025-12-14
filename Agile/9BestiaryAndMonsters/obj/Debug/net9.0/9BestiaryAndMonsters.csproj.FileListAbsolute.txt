@@ -1,0 +1,15 @@
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/9BestiaryAndMonsters/bin/Debug/net9.0/9BestiaryAndMonsters
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/9BestiaryAndMonsters/bin/Debug/net9.0/9BestiaryAndMonsters.deps.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/9BestiaryAndMonsters/bin/Debug/net9.0/9BestiaryAndMonsters.runtimeconfig.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/9BestiaryAndMonsters/bin/Debug/net9.0/9BestiaryAndMonsters.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/9BestiaryAndMonsters/bin/Debug/net9.0/9BestiaryAndMonsters.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/9BestiaryAndMonsters/obj/Debug/net9.0/9BestiaryAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/9BestiaryAndMonsters/obj/Debug/net9.0/9BestiaryAndMonsters.AssemblyInfoInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/9BestiaryAndMonsters/obj/Debug/net9.0/9BestiaryAndMonsters.AssemblyInfo.cs
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/9BestiaryAndMonsters/obj/Debug/net9.0/9BestiaryAndMonsters.csproj.CoreCompileInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/9BestiaryAndMonsters/obj/Debug/net9.0/9BestiaryAndMonsters.sourcelink.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/9BestiaryAndMonsters/obj/Debug/net9.0/9BestiaryAndMonsters.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/9BestiaryAndMonsters/obj/Debug/net9.0/refint/9BestiaryAndMonsters.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/9BestiaryAndMonsters/obj/Debug/net9.0/9BestiaryAndMonsters.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/9BestiaryAndMonsters/obj/Debug/net9.0/9BestiaryAndMonsters.genruntimeconfig.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/9BestiaryAndMonsters/obj/Debug/net9.0/ref/9BestiaryAndMonsters.dll

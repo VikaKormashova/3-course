@@ -1,0 +1,15 @@
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/7OnlineStore/bin/Debug/net9.0/7OnlineStore
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/7OnlineStore/bin/Debug/net9.0/7OnlineStore.deps.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/7OnlineStore/bin/Debug/net9.0/7OnlineStore.runtimeconfig.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/7OnlineStore/bin/Debug/net9.0/7OnlineStore.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/7OnlineStore/bin/Debug/net9.0/7OnlineStore.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/7OnlineStore/obj/Debug/net9.0/7OnlineStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/7OnlineStore/obj/Debug/net9.0/7OnlineStore.AssemblyInfoInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/7OnlineStore/obj/Debug/net9.0/7OnlineStore.AssemblyInfo.cs
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/7OnlineStore/obj/Debug/net9.0/7OnlineStore.csproj.CoreCompileInputs.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/7OnlineStore/obj/Debug/net9.0/7OnlineStore.sourcelink.json
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/7OnlineStore/obj/Debug/net9.0/7OnlineStore.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/7OnlineStore/obj/Debug/net9.0/refint/7OnlineStore.dll
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/7OnlineStore/obj/Debug/net9.0/7OnlineStore.pdb
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/7OnlineStore/obj/Debug/net9.0/7OnlineStore.genruntimeconfig.cache
+/Users/viktoriakormasova/Desktop/my_project/3-course/Agile/7OnlineStore/obj/Debug/net9.0/ref/7OnlineStore.dll
